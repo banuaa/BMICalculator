@@ -1,5 +1,5 @@
 # BMICalculator
-GUI BMI Calculator Based Indonesian Body Mask Index
+Object Oriented Programming GUI BMI Calculator Based Indonesian Body Mask Index
 
 https://github.com/banuaa/BMICalculator
 
